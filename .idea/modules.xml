@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/00_recap/00_recap.iml" filepath="$PROJECT_DIR$/00_recap/00_recap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_switch/01_switch.iml" filepath="$PROJECT_DIR$/01_switch/01_switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_fileio/02_fileio.iml" filepath="$PROJECT_DIR$/02_fileio/02_fileio.iml" />
       <module fileurl="file://$PROJECT_DIR$/htlwienwest_3acif_pos01_2026.iml" filepath="$PROJECT_DIR$/htlwienwest_3acif_pos01_2026.iml" />
     </modules>
   </component>
